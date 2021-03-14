@@ -3315,7 +3315,7 @@ metadata:
   namespace: argocd
 spec:
   rules:
-  - host: argo-cd.gitops.com.br
+  - host: argo-cd.noobcloud.com.br
     http:
       paths:
       - backend:

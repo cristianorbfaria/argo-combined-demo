@@ -18,5 +18,5 @@ spec:
            name: argocd-server
            port:
              number: 80
-    host: argo-cd.gitops.com.br
+    host: argo-cd.noobcloud.com.br
 
